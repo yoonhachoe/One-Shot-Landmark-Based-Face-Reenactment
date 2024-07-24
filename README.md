@@ -54,3 +54,5 @@ To evaluate the trained model, first prepare the test source identity latent vec
 ```shell
 python test.py
 ```
+
+<p align="center"><img src="docs/image1.jpg" width="100%"/></p>
