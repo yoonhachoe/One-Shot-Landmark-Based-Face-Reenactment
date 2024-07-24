@@ -2,6 +2,8 @@
 This repository contains the source code for my master's thesis, One-Shot Landmark-Based
 Face reenactment.
 
+<p align="center"><img src="docs/image0.jpg" width="100%"/></p>
+
 ## Introduction
 In this thesis, we propose a One-Shot Landmark-Based Face Reenactment, which generates 
 reenacted images given a single source identity image conditioned by the facial landmarks 
